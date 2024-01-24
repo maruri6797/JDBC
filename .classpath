@@ -8,5 +8,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/81807/Downloads/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0.jar"/>
+	<classpathentry kind="con" path="junit.extensions.eclipse.quick.mock.MOCKITO_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
